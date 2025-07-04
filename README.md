@@ -49,7 +49,7 @@ Gezegenimize 8 Işık Yılı uzaklıktaki Morthadur gezegeninin yıldızı super
 ## Oyunumuzun Özellikleri  (Kesinleşmemiş)
 
 🎮3D 
-🧩Puzzle Unsurları Bulunduran
+🧩Puzzle Unsurları Bulunduran\n
 🧛Korku Ögeleri Barındıran
 🎞️Ara sahneler ile hikayeyi anlatan sinematik aksiyon
 🕹️Tek Oyunculu
