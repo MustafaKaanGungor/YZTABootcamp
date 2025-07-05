@@ -67,5 +67,17 @@ Bu sprtintte kendimize 20 puanlık bir iş yükü verdik.
 5p----> Oyunun mekaniksel anlamda neler içerdiği
 
 Oyunumuza tam başlayamadık ama belirlediğimiz bu görevleri tamamladık.
-##Haberleşme: Takım içindeki haberleşmeyi whatsapp , slack ve bazen de google meet üzerinden yapıyoruz genel olarak whatsapp kullanıyoruz ama bu aşamada herkesin yetkin olduğu alanları belirdelik ve rol dağılımı yaptık.
+
+#Haberleşme: Takım içindeki haberleşmeyi whatsapp , slack ve bazen de google meet üzerinden yapıyoruz genel olarak whatsapp kullanıyoruz ama bu aşamada herkesin yetkin olduğu alanları belirdelik ve rol dağılımı yaptık.
+
+#Kullanmayı Öngördüğümüz Assestler:
+
+![Japon Arenası](https://github.com/user-attachments/assets/bd34bb7c-d520-486a-9c9d-4f90474460b8)
+
+![Çevre](https://github.com/user-attachments/assets/0284d050-0732-4c64-9673-040f737929f5)
+
+![Morthadurlu Mutantlar](https://github.com/user-attachments/assets/30a3d712-3407-4e7b-a9dc-780d3e0c0614)
+
+![ZARIKA](https://github.com/user-attachments/assets/bd34bb7c-d520-486a-9c9d-4f90474460b8)
+
 
