@@ -63,18 +63,23 @@ Gezegenimize 8 Işık Yılı uzaklıktaki Morthadur gezegeninin yıldızı super
 
 **Puanlamamız ve yapılanlar**
 
-Bu sprtintte kendimize 20 puanlık bir iş yükü verdik.
+Bu sprtintte kendimize 20 puanlık bir iş yükü verdik.Total Olarakta 100 puan vereceğiz.
 
-5p ⇨ Oyunun Hikayesi
+2p ⇨ Oyuna isim Bulmak
 
-10p ⇨ Kullanılabilecek Hazır Assestler Bulma (ücretsiz)
+3p ⇨ Kullanılcak Unity Sürümünü Seçmek  ve Github Senkronizasyonunu Sağlamak
 
-5p ⇨ Oyunun mekaniksel anlamda neler içerdiği
+10p ⇨ Oyunun Hikayesi
+
+5p ⇨ Kullanılabilecek Hazır Assestler Bulma (ücretsiz)
+
+
+![Liste](https://github.com/user-attachments/assets/b7fd0833-7fdf-4fff-affc-7c9180b9b71f)
 
 
 Oyunumuza tam başlayamadık ama belirlediğimiz bu görevleri tamamladık.
 
-▣ **Haberleşme:** Takım içindeki haberleşmeyi whatsapp , slack ve bazen de google meet üzerinden yapıyoruz genel olarak whatsapp kullanıyoruz ama bu aşamada herkesin yetkin olduğu alanları belirdelik ve rol dağılımı yaptık.
+▣ **Daily Scrum:** Takım içindeki haberleşmeyi whatsapp , slack ve bazen de google meet üzerinden yapıyoruz genel olarak whatsapp kullanıyoruz ama bu aşamada herkesin yetkin olduğu alanları belirdelik ve rol dağılımı yaptık.
 
 
 ▣ **Kullanmayı Öngördüğümüz Assestler**
