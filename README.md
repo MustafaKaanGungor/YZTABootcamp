@@ -68,11 +68,11 @@ Bu sprtintte kendimize 20 puanlık bir iş yükü verdik.
 
 Oyunumuza tam başlayamadık ama belirlediğimiz bu görevleri tamamladık.
 
-#Haberleşme: Takım içindeki haberleşmeyi whatsapp , slack ve bazen de google meet üzerinden yapıyoruz genel olarak whatsapp kullanıyoruz ama bu aşamada herkesin yetkin olduğu alanları belirdelik ve rol dağılımı yaptık.
+**Haberleşme:** Takım içindeki haberleşmeyi whatsapp , slack ve bazen de google meet üzerinden yapıyoruz genel olarak whatsapp kullanıyoruz ama bu aşamada herkesin yetkin olduğu alanları belirdelik ve rol dağılımı yaptık.
 
-#Kullanmayı Öngördüğümüz Assestler:
+**Kullanmayı Öngördüğümüz Assestler**
 
-![Japon Arenası](https://github.com/user-attachments/assets/bd34bb7c-d520-486a-9c9d-4f90474460b8)
+![Japon Arena](https://github.com/user-attachments/assets/757c3d21-5488-42ae-bbbc-d72c878d2b85)
 
 ![Çevre](https://github.com/user-attachments/assets/0284d050-0732-4c64-9673-040f737929f5)
 
