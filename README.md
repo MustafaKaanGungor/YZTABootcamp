@@ -64,9 +64,13 @@ Gezegenimize 8 Işık Yılı uzaklıktaki Morthadur gezegeninin yıldızı super
 **Puanlamamız ve yapılanlar**
 
 Bu sprtintte kendimize 20 puanlık bir iş yükü verdik.
+
 5p ⇨ Oyunun Hikayesi
+
 10p ⇨ Kullanılabilecek Hazır Assestler Bulma (ücretsiz)
+
 5p ⇨ Oyunun mekaniksel anlamda neler içerdiği
+
 
 Oyunumuza tam başlayamadık ama belirlediğimiz bu görevleri tamamladık.
 
@@ -83,9 +87,10 @@ Oyunumuza tam başlayamadık ama belirlediğimiz bu görevleri tamamladık.
 
 ![ZARIKA](https://github.com/user-attachments/assets/bd34bb7c-d520-486a-9c9d-4f90474460b8)
 
-▣ ### Sprint Review:
+▣ **Sprint Review:**
 
 • Ekibimizle bu sprint sonu değerlendirme yaptık bu değerlendirmede ilk sprintte sınav haftalarımız olduğundan biraz zayıf kaldığımızı düşünüyoruz ikinci sprintte oluşan açıkığı kapatacağız. 
+
 •Temelimizi attık gerisi geliştirmede.
 
 
