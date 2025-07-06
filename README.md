@@ -113,10 +113,15 @@ Oyunumuza tam başlayamadık ama belirlediğimiz bu görevleri tamamladık.
 **Retrospective**
 
 🔘Ekibin iş yeri çalışma saatlerinden kaynaklı olarak cuma günleri ana bir toplantı yapılmasına karar kıldık diğer günler whatsapp üzerindne iletişimde olacağız.
+
 🔘Unity sürümünü 6000.0.46f1 olarak tercih ettik bu aşamadan sonra bu srümü kullanacağız.
+
 🔘Ekip 2 bölüme ayrıldı;
+
 -->Develop Kısmında: Göktuğ Ferdi uylaş , Mustafa Kaan Güngör , Zeynep Selin Özkal.
+
 -->Tasarım Kısmında: Barkın Kahraman ve Bilge Karabacak.
+
 olarak görev paylaşımı yaptık.
 
 
