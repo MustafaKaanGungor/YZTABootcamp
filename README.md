@@ -83,7 +83,7 @@ Oyunumuza tam başlayamadık ama belirlediğimiz bu görevleri tamamladık.
 
 ▣ **Daily Scrum:** Takım içindeki haberleşmeyi whatsapp , slack ve bazen de google meet üzerinden yapıyoruz genel olarak whatsapp kullanıyoruz ama bu aşamada herkesin yetkin olduğu alanları belirdelik ve rol dağılımı yaptık.
 
-<details> <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
+<details> <summary><h3>Konuşmalarımız: Ekran Görüntüleri</h3></summary>
   
   ![Scrum1](https://github.com/user-attachments/assets/f7d88586-e751-4da0-adfe-e94893914c1e)
   ![Scrum2](https://github.com/user-attachments/assets/a0a84f9d-75c1-4063-b7c5-d5ba9f4ceb1e)
@@ -109,6 +109,15 @@ Oyunumuza tam başlayamadık ama belirlediğimiz bu görevleri tamamladık.
 • Ekibimizle bu sprint sonu değerlendirme yaptık bu değerlendirmede ilk sprintte sınav haftalarımız olduğundan biraz zayıf kaldığımızı düşünüyoruz ikinci sprintte oluşan açıkığı kapatacağız. 
 
 •Temelimizi attık gerisi geliştirmede.
+
+**Retrospective**
+
+🔘Ekibin iş yeri çalışma saatlerinden kaynaklı olarak cuma günleri ana bir toplantı yapılmasına karar kıldık diğer günler whatsapp üzerindne iletişimde olacağız.
+🔘Unity sürümünü 6000.0.46f1 olarak tercih ettik bu aşamadan sonra bu srümü kullanacağız.
+🔘Ekip 2 bölüme ayrıldı;
+-->Develop Kısmında: Göktuğ Ferdi uylaş , Mustafa Kaan Güngör , Zeynep Selin Özkal.
+-->Tasarım Kısmında: Barkın Kahraman ve Bilge Karabacak.
+olarak görev paylaşımı yaptık.
 
 
 
