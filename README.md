@@ -96,13 +96,11 @@ Oyunumuza tam başlayamadık ama belirlediğimiz bu görevleri tamamladık.
 
 ▣ **Kullanmayı Öngördüğümüz Assestler**
 
-![Japon Arena](https://github.com/user-attachments/assets/757c3d21-5488-42ae-bbbc-d72c878d2b85)
+![photo1](https://github.com/MustafaKaanGungor/YZTABootcamp/blob/main/Assets/scrum1.png)
 
-![Çevre](https://github.com/user-attachments/assets/0284d050-0732-4c64-9673-040f737929f5)
+![photo2](https://github.com/MustafaKaanGungor/YZTABootcamp/blob/main/Assets/scrum2.png)
 
-![Morthadurlu Mutantlar](https://github.com/user-attachments/assets/30a3d712-3407-4e7b-a9dc-780d3e0c0614)
-
-![ZARIKA](https://github.com/user-attachments/assets/bd34bb7c-d520-486a-9c9d-4f90474460b8)
+![photo3](https://github.com/MustafaKaanGungor/YZTABootcamp/blob/main/Assets/scrum3.png)
 
 ▣ **Sprint Review:**
 
