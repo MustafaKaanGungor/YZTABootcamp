@@ -73,6 +73,8 @@ Bu sprtintte kendimize 20 puanlık bir iş yükü verdik.Total Olarakta 100 puan
 
 5p ⇨ Kullanılabilecek Hazır Assestler Bulma (ücretsiz)
 
+**Product Backlog Linkimiz:** [ASANA BackLog Link](https://app.asana.com/1/1210683822238873/project/1210683881021713/list/1210683601715967)
+
 
 ![Liste](https://github.com/user-attachments/assets/b7fd0833-7fdf-4fff-affc-7c9180b9b71f)
 
@@ -81,6 +83,16 @@ Oyunumuza tam başlayamadık ama belirlediğimiz bu görevleri tamamladık.
 
 ▣ **Daily Scrum:** Takım içindeki haberleşmeyi whatsapp , slack ve bazen de google meet üzerinden yapıyoruz genel olarak whatsapp kullanıyoruz ama bu aşamada herkesin yetkin olduğu alanları belirdelik ve rol dağılımı yaptık.
 
+<details> <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
+  
+  ![Scrum1](https://github.com/user-attachments/assets/f7d88586-e751-4da0-adfe-e94893914c1e)
+  ![Scrum2](https://github.com/user-attachments/assets/a0a84f9d-75c1-4063-b7c5-d5ba9f4ceb1e)
+  ![Scrum3](https://github.com/user-attachments/assets/72c02886-ee2a-4635-bb63-12699118f448)
+  ![Scrum4](https://github.com/user-attachments/assets/ad5d43bb-6e32-4732-91ae-d7728d6c7e56)
+  ![Scrum5](https://github.com/user-attachments/assets/07432bbb-631b-4353-aeed-b238e467dd68)
+  ![Scrum6](https://github.com/user-attachments/assets/f806d275-77d3-494a-9ed6-77a81c7b3293)
+
+  </details>
 
 ▣ **Kullanmayı Öngördüğümüz Assestler**
 
@@ -97,5 +109,7 @@ Oyunumuza tam başlayamadık ama belirlediğimiz bu görevleri tamamladık.
 • Ekibimizle bu sprint sonu değerlendirme yaptık bu değerlendirmede ilk sprintte sınav haftalarımız olduğundan biraz zayıf kaldığımızı düşünüyoruz ikinci sprintte oluşan açıkığı kapatacağız. 
 
 •Temelimizi attık gerisi geliştirmede.
+
+
 
 
