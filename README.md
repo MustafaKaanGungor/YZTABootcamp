@@ -122,6 +122,39 @@ Oyunumuza tam başlayamadık ama belirlediğimiz bu görevleri tamamladık.
 
 olarak görev paylaşımı yaptık.
 
+## SPRİNT 2 
+
+**Puanlamamız ve Yapılanlar**
+
+Bu spirintte 30 puanlık bir iş yükü yaptık. Geçen sprintten 80 puan klamıştı 30 puanlık iş yükünü de burada kapattık son sprintte daha seri çalışarak 50 puanlık bir iş yükü ile oyunumuzu tamamlayacağız.
+
+3p ⇨ Oyun İçi Toplananabilirleri Eklemek
+
+5p ⇨ Oyun Giriş Ekranı & UI
+
+10p ⇨ Mapi Tasarlamak
+
+5p ⇨ Düşman Hareketleri
+
+5p ⇨ Hareket Etme Silah Kullanma Hareketleri
+
+**Product Backlog Linkimiz** [MiroLink](https://miro.com/app/board/uXjVJfa2ZyE=)
+
+![Liste2](https://github.com/user-attachments/assets/df6d22b7-c5e1-4e39-b9cb-85f6b3cb2bc4)
+
+**Daily Scrum:** Takımımız ile whatsapp üzerinden görev dağılımı yaptık yeni bir grup daha oluşturduk ve Barkın arkadaşımız burada  hikayenin nasıl başta ve sonda anlatılacağı ile ilgili bilgiler verdi.
+
+<details> <summary><h3>Konuşmalarımız: Ekran Görüntüleri</h3></summary>
+  
+![Scrum1](https://github.com/user-attachments/assets/c8db9e30-584e-4811-8b30-9a96f77e167d)
+![Scrum2](https://github.com/user-attachments/assets/023ad848-edc3-4fad-b8e5-963c7246ce30)
+![Scrum3](https://github.com/user-attachments/assets/a5c2bd60-ad96-41ea-a14b-8ced444bb557)
+![Scrum4](https://github.com/user-attachments/assets/311b66b2-be4e-4f3c-b4cf-ac4e6ae5a051)
+
+ </details>
+
+ DEVAMINI YARIN YAZACAĞIM SELÇUK BAKİ BEY :)
+
 
 
 
