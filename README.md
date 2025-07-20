@@ -153,7 +153,46 @@ Bu spirintte 30 puanlık bir iş yükü yaptık. Geçen sprintten 80 puan klamı
 
  </details>
 
- DEVAMINI YARIN YAZACAĞIM SELÇUK BAKİ BEY :)
+ ▣ **Oyunumuzun Gidişatından Birkaç Görsel**
+
+
+ ![Game1](https://github.com/user-attachments/assets/db4d9ee1-e7f3-45c6-a799-d9982ce8a9f2)
+ 
+ Oyunumuzun Terraini (Bu map tam sürü mdeğil biraz daha değişecek ve içine daha bölüm dizaynı yapacağız)
+
+ ![Game2](https://github.com/user-attachments/assets/24d0fd23-30a6-4df9-97ac-19edccf35d86)
+
+ ![Game3](https://github.com/user-attachments/assets/8a5c0bb4-d167-4fed-b811-f9ec74611b93)
+
+ //Selin   KOD FOTOLARINI BURANIN ALTINA EKLE//
+
+ ▣ **Sprint Review:**
+
+ Temel Olarak Haritayı Bitirdik Sadece Assestlerle Donatmak Kaldı.
+
+ Oyunun Girişi ve Sonucu için Güzel Videolar Hazırlandı.
+
+ Düşman Yapayzekası ve Diğer Kodları Halledilmekte.
+
+ Hikaye Yerine Oturdu Ufak Değişiklikler Yapabilir Gibiyiz.
+
+ Süreç bizim için aslında biraz yavaş ilerliyor takımcak çalışıyoruz farklı işlerde herkes herzaman meşgul olamıyor ama ilerleme kat ettik bir şekilde.
+
+ ▣ **Retrospective**
+
+ Ekipçe Oyun İlerlemesi İçin Nelere İhtiyaç Duyduğumuzu Konuştuk ve Onun Görev Atamasını Yaptık
+
+ Barkın --> Süreçte Kullanabileceğimiz Güzel Assestler bulacak ve sprint sonu için yayımlayacağımız video için video edit öğreniyor.
+
+ Selin --> Düşman Yapayzekasını çeşitlendirecek ve oyuna birkaç yeni mekanik Ekleyecek
+
+ Göktuğ --> Level Design Yapacağım ve Mini Questler Eklemeyeceğim
+
+ Mustafa --> Karakter Hareketleri Mekanikleri Saldırı Gibi Özellikleri Oyuna Ekleyecek
+
+
+
+ 
 
 
 
