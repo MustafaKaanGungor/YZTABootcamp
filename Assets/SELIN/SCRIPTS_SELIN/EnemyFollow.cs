@@ -3,7 +3,7 @@ using UnityEngine.AI;
 
 public class EnemyFollow : MonoBehaviour
 {
-    public Transform player; // Assign via Inspector or find via tag
+    public Transform player;
     private NavMeshAgent agent;
 
     void Start()
