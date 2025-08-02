@@ -164,7 +164,17 @@ Bu spirintte 30 puanlık bir iş yükü yaptık. Geçen sprintten 80 puan klamı
 
  ![Game3](https://github.com/user-attachments/assets/8a5c0bb4-d167-4fed-b811-f9ec74611b93)
 
- //Selin   KOD FOTOLARINI BURANIN ALTINA EKLE//
+ 
+ <img width="1736" height="863" alt="Ekran görüntüsü 2025-07-20 171613" src="https://github.com/user-attachments/assets/4d73c3cc-9844-4409-9615-9a3ee9143495" />
+
+ <img width="1741" height="871" alt="Ekran görüntüsü 2025-07-20 170937" src="https://github.com/user-attachments/assets/fbb67c66-eba6-49ef-a58c-a5cb72e64e6a" />
+ 
+ Oyunumuzda Kullanacağımız Bizi Takip Edecek Olan Düşmanın Mekaniklerini Ayrı Sahnede Test Ediyoruz.
+ 
+ <img width="866" height="723" alt="Ekran görüntüsü 2025-07-20 170419" src="https://github.com/user-attachments/assets/96900c2c-388e-4652-a671-61014472379a" />
+
+ NavMesh Kullanarak Yaptığımız Düşmanın Kodu. (Daha Geliştirilecek)
+
 
  ▣ **Sprint Review:**
 
