@@ -158,7 +158,7 @@ Bu spirintte 30 puanlık bir iş yükü yaptık. Geçen sprintten 80 puan klamı
 
  ![Game1](https://github.com/user-attachments/assets/db4d9ee1-e7f3-45c6-a799-d9982ce8a9f2)
  
- Oyunumuzun Terraini (Bu map tam sürü mdeğil biraz daha değişecek ve içine daha bölüm dizaynı yapacağız)
+ Oyunumuzun Terraini (Bu map tam sürümü değil biraz daha değişecek ve içine daha bölüm dizaynı yapacağız)
 
  ![Game2](https://github.com/user-attachments/assets/24d0fd23-30a6-4df9-97ac-19edccf35d86)
 
@@ -199,6 +199,88 @@ Bu spirintte 30 puanlık bir iş yükü yaptık. Geçen sprintten 80 puan klamı
  Göktuğ --> Level Design Yapacağım ve Mini Questler Eklemeyeceğim
 
  Mustafa --> Karakter Hareketleri Mekanikleri Saldırı Gibi Özellikleri Oyuna Ekleyecek
+
+##SPRİNT 3 
+
+**Puanlamamız ve Yapılanlar**
+
+Bu sprintte 50 puanlık bir iş yükü verdik kendimize fakat bazı sebeplerden dolayı bu puanımızı tamamlayamadık.
+
+10p --> Karakter Hareketleri ve Saldırı Hareketleri
+
+10p --> Map İçi Yapılar  , ögeler vs yapılandırılması.
+
+10p --> Loot Mekaniği ve Inventory Sistemi ( Ekleyemedik )
+
+10p --> Karakter Can , Hız  ve Bazı  Nitelikleri
+
+10 --> Tüm Yapılanları Birleştirme ve Optimize Etme.
+
+**Product Backlog Linkimiz:** [MiroLink](https://miro.com/app/board/uXjVJfa2ZyE=)
+
+![Liste3](https://github.com/user-attachments/assets/2176be01-9f86-4c6d-8f28-3d87e1273d8d)
+
+**Daily Scrum:**
+
+<details> <summary><h3>Konuşmalarımız: Ekran Görüntüleri</h3></summary>
+
+![Scrumm](https://github.com/user-attachments/assets/77dbf6c8-ba52-491b-9cc1-eea47f176818)
+![Scrumm2](https://github.com/user-attachments/assets/e835275f-1e9f-4200-a612-cb71e350e7ce)
+![Scrum3](https://github.com/user-attachments/assets/0f62c8a8-e795-48e3-833c-f86916785019)
+![Scrum4](https://github.com/user-attachments/assets/fc79b871-a094-48f4-b290-80124b723117)
+
+ </details>
+
+▣ **Oyunumuzundan Görseller**
+
+![Paint](https://github.com/user-attachments/assets/6fe8f013-d7e2-479d-b0c2-ef197689b561)
+
+![Paint2](https://github.com/user-attachments/assets/52a00a13-54de-4e2c-abf9-60cf313ca8ce)
+
+![Paint3](https://github.com/user-attachments/assets/57b5259d-babc-4ed2-9999-f32173e79340)
+
+Atmosferi Biraz post apocalyptic bir dünyaymış gibi dizayn ettim.
+
+(SELİN BURAYA DİĞER MEKANİKLERİN FOTOĞRAFINI ATARSIN)
+
+
+▣ **Sprint Review:**
+
+Yani İşin Sonunda İstediğimiz Şekilde Oyunu Çıkaramadığımızı Düşünüyorum Bunun Sebebi Ekipteki İnsanların Çalışma Durumu ve Müsait Olamamasından da Kaynaklı.
+
+Bundan dolayı İş Yükü Olarak Yetersiz Kaldı.
+
+En Azından Ortaya Birşeyler Sunabildiğimiz İçin Mutluyuz.
+
+Bu Sprintin Sonunda;
+
+Göktuğ --> Mapi Donatma Çevre Tasarımı ve UI Ekranları + Loot Sistemi (Bitiremedim).
+
+Selin --> Karakter Nitelikleri , Düşman Hareketleri.
+
+Barkın --> Oyun tanıtımı için video , Başlangıç Ve Bitiş Ara Sahneleri.
+
+ile uğraştık.
+
+
+ ▣ **Retrospective**
+ 
+
+ Bu sprintin aynı zamanda projenin sonunda hedefleri küçükten başlatmayı öğrendik aslında başlarda planımız daha büyük bir oyundu.
+
+ Oyun Yapımında da deneyimlendik.
+
+ Unityde saçma sapan hatalar çıkarsa üstesinden gelmeyi öğrendik en azından ben çok yaşadım.
+
+ İlerki Projelerimizde Kullanabileceğimiz Teknikler De Öğrendik.
+ 
+
+
+
+
+
+
+
 
 
 
