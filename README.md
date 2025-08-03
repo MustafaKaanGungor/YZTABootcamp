@@ -216,7 +216,7 @@ Bu sprintte 50 puanlık bir iş yükü verdik kendimize fakat bazı sebeplerden 
 
 10 --> Tüm Yapılanları Birleştirme ve Optimize Etme.
 
-**Product Backlog Linkimiz:** [MiroLink2](https://miro.com/app/board/uXjVJfa2ZyE=)
+**Product Backlog Linkimiz:** [MiroLink](https://miro.com/app/board/uXjVJfa2ZyE=)
 
 ![Liste3](https://github.com/user-attachments/assets/2176be01-9f86-4c6d-8f28-3d87e1273d8d)
 
@@ -237,11 +237,12 @@ Bu sprintte 50 puanlık bir iş yükü verdik kendimize fakat bazı sebeplerden 
 
 ![Paint2](https://github.com/user-attachments/assets/52a00a13-54de-4e2c-abf9-60cf313ca8ce)
 
-![Paint3]("https://github.com/user-attachments/assets/57b5259d-babc-4ed2-9999-f32173e79340)
+![Paint3](https://github.com/user-attachments/assets/57b5259d-babc-4ed2-9999-f32173e79340)
 
 Atmosferi Biraz post apocalyptic bir dünyaymış gibi dizayn ettim.
 
 (SELİN BURAYA DİĞER MEKANİKLERİN FOTOĞRAFINI ATARSIN)
+
 
 ▣ **Sprint Review:**
 
@@ -261,7 +262,9 @@ Barkın --> Oyun tanıtımı için video , Başlangıç Ve Bitiş Ara Sahneleri.
 
 ile uğraştık.
 
+
  ▣ **Retrospective**
+ 
 
  Bu sprintin aynı zamanda projenin sonunda hedefleri küçükten başlatmayı öğrendik aslında başlarda planımız daha büyük bir oyundu.
 
