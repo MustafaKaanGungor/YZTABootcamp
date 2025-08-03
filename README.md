@@ -241,9 +241,6 @@ Bu sprintte 50 puanlık bir iş yükü verdik kendimize fakat bazı sebeplerden 
 
 Atmosferi Biraz post apocalyptic bir dünyaymış gibi dizayn ettim.
 
-(SELİN BURAYA DİĞER MEKANİKLERİN FOTOĞRAFINI ATARSIN)
-
-
 ▣ **Sprint Review:**
 
 Yani İşin Sonunda İstediğimiz Şekilde Oyunu Çıkaramadığımızı Düşünüyorum Bunun Sebebi Ekipteki İnsanların Çalışma Durumu ve Müsait Olamamasından da Kaynaklı.
