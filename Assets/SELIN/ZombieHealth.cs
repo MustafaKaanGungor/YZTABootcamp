@@ -24,6 +24,7 @@ public class ZombieHealth : MonoBehaviour
     void Die()
     {
         Debug.Log("Zombie died!");
+        GameManager.Instance.ZombieKilled();
         // Ölüm animasyonu, efekt vs buraya
         Destroy(gameObject); // şimdilik direkt sil
     }
